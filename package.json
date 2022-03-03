@@ -4,21 +4,28 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build-css": "node-sass --include-path scss scss/style.scss css/style.css && cleancss -o css/style.min.css css/style.css",
-    "watch-css": "nodemon -e scss -x \"npm run build-css\""
+    "autoprefixer": "postcss --use autoprefixer --no-map dist/assets/css/style.css -d dist/assets/css/",
+    "build-css": "node-sass --include-path scss src/assets/scss/style.scss dist/assets/css/style.css --output-style compressed",
+    "production": "yarn build-css && autoprefixer"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fr-tanaka/test.git"
   },
-  "author": "",
+  "author": "hiroshi_tanaka <h.tanaka@frontier-ad.co.jp",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fr-tanaka/test/issues"
   },
   "homepage": "https://github.com/fr-tanaka/test#readme",
   "devDependencies": {
+    "autoprefixer": "^10.4.2",
     "node-sass": "^7.0.1",
-    "nodemon": "^2.0.15"
-  }
+    "nodemon": "^2.0.15",
+    "postcss": "^8.4.7",
+    "postcss-cli": "^9.1.0"
+  },
+  "browserslist": [
+    "> 0.5% in JP"
+  ]
 }
