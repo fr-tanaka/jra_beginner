@@ -5,8 +5,10 @@
   "main": "index.js",
   "scripts": {
     "autoprefixer": "postcss --use autoprefixer --no-map dist/assets/css/style.css -d dist/assets/css/",
-    "build-css": "node-sass --include-path scss src/assets/scss/style.scss dist/assets/css/style.css --output-style compressed",
-    "production": "yarn build-css && autoprefixer"
+    "build-css": "sass --style=compressed src/assets/scss/style.scss dist/assets/css/style.css",
+    "build-js": "webpack --mode development",
+    "build-ejs": "ejs-cli -b src/ \"/**/*.ejs\" -o dist/",
+    "production": "yarn build-css && yarn build-ejs && yarn build-js && yarn autoprefixer"
   },
   "repository": {
     "type": "git",
@@ -20,12 +22,21 @@
   "homepage": "https://github.com/fr-tanaka/test#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.2",
-    "node-sass": "^7.0.1",
+    "cross-env": "^7.0.3",
+    "ejs-cli": "^2.2.3",
+    "html-minifier": "^4.0.0",
+    "html-webpack-plugin": "^5.5.0",
     "nodemon": "^2.0.15",
     "postcss": "^8.4.7",
-    "postcss-cli": "^9.1.0"
+    "postcss-cli": "^9.1.0",
+    "sass": "^1.49.9",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
   },
   "browserslist": [
     "> 0.5% in JP"
-  ]
+  ],
+  "dependencies": {
+    "yarn": "^1.22.17"
+  }
 }
