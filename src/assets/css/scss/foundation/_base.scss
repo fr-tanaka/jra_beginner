@@ -1,0 +1,40 @@
+@charset 'UTF-8';
+
+@use "./variable" as *;
+@use "./mixin" as *;
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    color: $fontColorMain;
+    font-family: "Helvetica Neue",Arial,"游ゴシック体", YuGothic,"Avenir", "Helvetica Neue", "Helvetica", "Arial", "Hiragino Sans", "ヒラギノ角ゴシック", YuGothic, "Yu Gothic", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic";
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+
+    @include mq('maxvw'){
+        font-size: $fontSizeSm;
+    }
+
+    @include mq('minpx'){
+        font-size: 16px;
+    }
+}
+
+img {
+    display: inline-block;
+	max-width:100%;
+    width: auto;
+    vertical-align: bottom;
+}
+
+a {
+    color: $fontColorMain;
+    text-decoration: none;
+}
+
+p {
+    line-height: 1.25;
+    letter-spacing: .1em;
+}
