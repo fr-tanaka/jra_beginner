@@ -61,12 +61,12 @@
 					<div class="tabs">
 						<input id="tab_online" type="radio" name="tab_item" checked>
 						<label class="tab_item" for="tab_online"><img src="./img/online_bt.png" alt="オンラインビギナーズセミナー オンラインで学ぶ"></label>
-			
-						<input id="tab_keibajo" type="radio" name="tab_item">
-						<label class="tab_item" for="tab_keibajo"><img src="./img/keibajo_bt.png" alt="オンラインビギナーズセミナー 動画で学ぶ"></label>
-						
+
 						<input id="tab_movie" type="radio" name="tab_item">
 						<label class="tab_item" for="tab_movie"><img src="./img/movie_bt.png" alt="オンラインビギナーズセミナー 競馬場で学ぶ"></label>
+
+                        <input id="tab_keibajo" type="radio" name="tab_item">
+						<label class="tab_item" for="tab_keibajo"><img src="./img/keibajo_bt.png" alt="オンラインビギナーズセミナー 動画で学ぶ"></label>
 			
 						<!---オンラインで学ぶ--->  
 						<div class="tab_content" id="tab_online_content">							
@@ -226,6 +226,16 @@
 								<p class="tab_sozai tab_sozai_bottom"><img src="./img/online_sozai.png"></p>
 							</div>
 						</div><!---ab_content--->
+
+                        <!---動画で学ぶ--->  
+						<div class="tab_content" id="tab_movie_content">
+							<div class="tab_inside">
+								<p class="tab_sozai"><img src="./img/movie_sozai.png"></p>
+								<p class="movie_coming-soon"><img src="./img/movie_coming-soon.png" alt="動画で学ぶ"></p>
+								<p class="tab_sozai tab_sozai_bottom"><img src="./img/movie_sozai.png"></p>
+							</div>
+						</div>
+						<!---ab_content--->
               
 						<!---競馬場で学ぶ--->  
 						<div class="tab_content" id="tab_keibajo_content">
@@ -327,16 +337,6 @@
 									<p class="tab_sozai tab_sozai_bottom"><img src="./img/keibajo_sozai.png"></p>
 							</div>
 						</div><!---ab_content--->
-						
-						<!---動画で学ぶ--->  
-						<div class="tab_content" id="tab_movie_content">
-							<div class="tab_inside">
-								<p class="tab_sozai"><img src="./img/movie_sozai.png"></p>
-								<p class="movie_coming-soon"><img src="./img/movie_coming-soon.png" alt="動画で学ぶ"></p>
-								<p class="tab_sozai tab_sozai_bottom"><img src="./img/movie_sozai.png"></p>
-							</div>
-						</div>
-						<!---ab_content--->
 						
 					</div><!--tabs-->
 					<!--タブ切り替えここまで-->
