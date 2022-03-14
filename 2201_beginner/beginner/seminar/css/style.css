@@ -2,7 +2,7 @@
 @import "base.css";
 
 /* ------------------------------------------------------------
-	ƒrƒMƒi[ƒYƒZƒ~ƒi[
+	ï¿½rï¿½Mï¿½iï¿½[ï¿½Yï¿½Zï¿½~ï¿½iï¿½[
 ------------------------------------------------------------ */
 
 /* common
@@ -11,7 +11,7 @@ body {
     min-width: 100%;
     background: none;
     font-size: 17px;
-    font-family: "Hiragino Sans", "ƒqƒ‰ƒMƒmŠpƒS ProN W3", "Hiragino Kaku Gothic ProN", 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', 'Hiragino Kaku Gothic Pro','ƒƒCƒŠƒI', Meiryo,'‚l‚r ‚oƒSƒVƒbƒN',sans-serif;
+    font-family: "Hiragino Sans", "ï¿½qï¿½ï¿½ï¿½Mï¿½mï¿½pï¿½S ProN W3", "Hiragino Kaku Gothic ProN", 'ï¿½qï¿½ï¿½ï¿½Mï¿½mï¿½pï¿½S Pro W3', 'Hiragino Kaku Gothic Pro','ï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½I', Meiryo,'ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N',sans-serif;
     font-feature-settings: "palt"1;
 	color: #727171;
 	}
@@ -655,7 +655,7 @@ header {
 }
 .racec_dtl .l_bx ul.time li:before,
 .racec_dtl .l_bx ul.place li:before {
-    content: "¡";
+    content: "ï¿½ï¿½";
     color: #00af84;
 }
 .racec_dtl .l_bx ul.time li b,
@@ -681,7 +681,7 @@ header {
 	padding: 0 0 0 3%;
 }
 .racec_dtl .l_bx ul.place li.nst2:before {
-    content: "E";
+    content: "ï¿½E";
     color: #000;
 }
 .racec_dtl .l_bx ul.place li.nst2 {
@@ -1005,7 +1005,7 @@ header {
 
 
 /* ------------------------------------------------------------
-	ƒrƒMƒi[ƒYƒZƒ~ƒi[ƒIƒ“ƒ‰ƒCƒ“
+	ï¿½rï¿½Mï¿½iï¿½[ï¿½Yï¿½Zï¿½~ï¿½iï¿½[ï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½Cï¿½ï¿½
 ------------------------------------------------------------ */
 /* #ank_btn
 --------------------------------------------------------- */
@@ -1628,7 +1628,7 @@ header {
 	
 	
 	/* ------------------------------------------------------------
-	ƒrƒMƒi[ƒYƒZƒ~ƒi[ƒIƒ“ƒ‰ƒCƒ“
+	ï¿½rï¿½Mï¿½iï¿½[ï¿½Yï¿½Zï¿½~ï¿½iï¿½[ï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½Cï¿½ï¿½
 	------------------------------------------------------------ */
 	/* #ank_btn
 	--------------------------------------------------------- */
@@ -1724,7 +1724,7 @@ header {
 
 
 
-/* 2021.04.08 ’Ç‹L */
+/* 2021.04.08 ï¿½Ç‹L */
 
 .box {
 	background: #fff000;
@@ -1770,7 +1770,7 @@ header {
 	}
 
 .online-seminar_img {
-	width: 80%;
+	width: 95%;
     margin: 0 auto;
     /*margin-top: 4%;*/
 	}
@@ -1882,10 +1882,6 @@ address {
 .fv_tit_01 {
 	width: 83%;
 	}	
-	
-.online-seminar_img {
-	width: 90%;
-	}	
 
 .beginner-seminar_box {
 	padding: 3%;
@@ -1978,19 +1974,19 @@ address {
 }
 
 
-/*/////////////////02.ƒJƒ‹[ƒZƒ‹(ƒXƒ‰ƒCƒ_[) ‚±‚±‚©‚ç/////////////////*/
+/*/////////////////02.ï¿½Jï¿½ï¿½ï¿½[ï¿½Zï¿½ï¿½(ï¿½Xï¿½ï¿½ï¿½Cï¿½_ï¿½[) ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½/////////////////*/
 
-/*ƒJƒ‹[ƒZƒ‹‰º‚Ìƒhƒbƒg*/
+/*ï¿½Jï¿½ï¿½ï¿½[ï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½Ìƒhï¿½bï¿½g*/
 .slick-dots li button:before {
 	font-size:5vw;
 	}
 
-/*‚â‚¶‚é‚µ*/
+/*ï¿½â‚¶ï¿½é‚µ*/
 .slider {
 	position:relative;
 	}
 
-/*¶*/
+/*ï¿½ï¿½*/
 .prev {
 	position: absolute;
 	top: 40%;
@@ -2001,7 +1997,7 @@ address {
     width: 12%;
 	}
 
-/*‰E*/
+/*ï¿½E*/
 .next {
 	position: absolute;
 	top: 40%;
@@ -2040,14 +2036,14 @@ address {
 
 }
 
-/*/////////////////02.ƒJƒ‹[ƒZƒ‹(ƒXƒ‰ƒCƒ_[) ‚±‚±‚Ü‚Å/////////////////*/
+/*/////////////////02.ï¿½Jï¿½ï¿½ï¿½[ï¿½Zï¿½ï¿½(ï¿½Xï¿½ï¿½ï¿½Cï¿½_ï¿½[) ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½/////////////////*/
 
 
 
 
 
 
-/*youtubeƒTƒ€ƒlƒCƒ‹*/
+/*youtubeï¿½Tï¿½ï¿½ï¿½lï¿½Cï¿½ï¿½*/
 .movie-content-wrap {
 	position: relative;
 	width: 100%;
@@ -2350,7 +2346,7 @@ address {
 }
 
 
-/*ƒ^ƒuØ‚è‘Ö‚¦‘S‘Ì‚ÌƒXƒ^ƒCƒ‹*/
+/*ï¿½^ï¿½uï¿½Ø‚ï¿½Ö‚ï¿½ï¿½Sï¿½Ì‚ÌƒXï¿½^ï¿½Cï¿½ï¿½*/
 .tabs {
   	/*margin-top: 50px;
   	padding-bottom: 40px;
@@ -2361,7 +2357,7 @@ address {
     margin: 0 auto;
 }
 
-/*ƒ^ƒu‚ÌƒXƒ^ƒCƒ‹*/
+/*ï¿½^ï¿½uï¿½ÌƒXï¿½^ï¿½Cï¿½ï¿½*/
 .tab_item {
   width: calc(85%/3);
     line-height: 4vw;
@@ -2376,12 +2372,12 @@ address {
   opacity: 0.75;
 }
 
-/*ƒ‰ƒWƒIƒ{ƒ^ƒ“‚ğ‘S‚ÄÁ‚·*/
+/*ï¿½ï¿½ï¿½Wï¿½Iï¿½{ï¿½^ï¿½ï¿½ï¿½ï¿½Sï¿½Äï¿½ï¿½ï¿½*/
 input[name="tab_item"] {
   display: none;
 }
 
-/*ƒ^ƒuØ‚è‘Ö‚¦‚Ì’†g‚ÌƒXƒ^ƒCƒ‹*/
+/*ï¿½^ï¿½uï¿½Ø‚ï¿½Ö‚ï¿½ï¿½Ì’ï¿½ï¿½gï¿½ÌƒXï¿½^ï¿½Cï¿½ï¿½*/
 .tab_content {
  	 display: none;
  	 padding: 4%;
@@ -2391,14 +2387,14 @@ input[name="tab_item"] {
 }
 
 
-/*‘I‘ğ‚³‚ê‚Ä‚¢‚éƒ^ƒu‚ÌƒRƒ“ƒeƒ“ƒc‚Ì‚İ‚ğ•\¦*/
+/*ï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½^ï¿½uï¿½ÌƒRï¿½ï¿½ï¿½eï¿½ï¿½ï¿½cï¿½Ì‚İ‚ï¿½\ï¿½ï¿½*/
 #tab_online:checked ~ #tab_online_content,
 #tab_movie:checked ~ #tab_movie_content,
 #tab_keibajo:checked ~ #tab_keibajo_content {
   display: block;
 }
 
-/*‘I‘ğ‚³‚ê‚Ä‚¢‚éƒ^ƒu‚ÌƒXƒ^ƒCƒ‹‚ğ•Ï‚¦‚é*/
+/*ï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½^ï¿½uï¿½ÌƒXï¿½^ï¿½Cï¿½ï¿½ï¿½ï¿½Ï‚ï¿½ï¿½ï¿½*/
 .tabs input:checked + .tab_item {
   color: #fff;
 }
@@ -2449,7 +2445,7 @@ input[name="tab_item"] {
 	}
 
 @media screen and (max-width:767px) {
-/*ƒ^ƒu‚ÌƒXƒ^ƒCƒ‹*/
+/*ï¿½^ï¿½uï¿½ÌƒXï¿½^ï¿½Cï¿½ï¿½*/
 .tab_item {
 	height: 14vw;
 	font-size: 3.5vw;
@@ -2457,7 +2453,7 @@ input[name="tab_item"] {
 	width: calc(94%/3);
 	margin-left: 1.5%;
 }
-/*ƒ^ƒuØ‚è‘Ö‚¦‚Ì’†g‚ÌƒXƒ^ƒCƒ‹*/
+/*ï¿½^ï¿½uï¿½Ø‚ï¿½Ö‚ï¿½ï¿½Ì’ï¿½ï¿½gï¿½ÌƒXï¿½^ï¿½Cï¿½ï¿½*/
 .tab_content {
 	padding: 3vw;
 	padding-top: 3vw;
