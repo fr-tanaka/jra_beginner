@@ -11,7 +11,7 @@ $widthMaxVw: 650px;
 $fontColorMain: #000;
 
 // color
-$colorMain: #F0F0F0;
+$colorMain: #f0f0f0;
 
 // font-size
 $fontSizeSm: 3.5vw;
@@ -19,10 +19,10 @@ $fontSizeLg: 1.1vw;
 
 // breakpoint
 $breakpoints: (
-    "maxvw": "screen and (max-width: 650px)",
-    "minpx": "screen and (min-width: 651px)",
-    "sm": "screen and (max-width: 767px)",
-    "lg": "screen and (min-width: 768px)",
+  "maxvw": "screen and (max-width: 650px)",
+  "minpx": "screen and (min-width: 651px)",
+  "sm": "screen and (max-width: 767px)",
+  "lg": "screen and (min-width: 768px)",
 ) !default;
 
 // transition
