@@ -1,0 +1,11 @@
+{
+  "name": "2201_beginner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "php -S localhost:8000 -t ./beginner/seminar/"
+  },
+  "author": "",
+  "license": "ISC"
+}
