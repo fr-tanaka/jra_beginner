@@ -39,7 +39,7 @@
 				<div class="slide-box">
 					<div class="fv">
                         <p class="fv__text"><a href="./pdf/text2019.pdf" target="_blabk"><img src="img/top-slide01__text.png" width="" height="" alt=""/></a></p>
-                        <div class="fv__bg"><img src="img/top-slide01.jpg" width="100%" height="" alt="" class="pc"><img src="img/top-slide01.jpg" width="100%" height="" alt="" class="sp"></div>
+                        <div class="fv__bg"><img src="img/top-slide01.jpg" width="100%" height="" alt="" class="pc"><img src="img/top-slide01_sp.jpg" width="100%" height="" alt="" class="sp"></div>
 					</div>
 				</div>
 				
