@@ -37,12 +37,10 @@
             	</div>
 			
 				<div class="slide-box">
-					<div class="">
-						<div>
-							<p class="fv pc"><img src="img/top-slide01.jpg" width="100%" height="" alt=""/></p>
-							<p class="fv sp"><img src="img/top-slide01_sp.jpg" width="100%" height="" alt=""/></p>
-						</div>
-					</div>        
+					<div class="fv">
+                        <p class="fv__text"><a href="./pdf/text2019.pdf" target="_blabk"><img src="img/top-slide01__text.png" width="" height="" alt=""/></a></p>
+                        <div class="fv__bg"><img src="img/top-slide01.jpg" width="100%" height="" alt="" class="pc"><img src="img/top-slide01.jpg" width="100%" height="" alt="" class="sp"></div>
+					</div>
 				</div>
 				
 				<p class="fv_bt"><img src="./img/fv_bt.png" alt="ビギナーズセミナー"></p>
@@ -96,7 +94,7 @@
 								<p class="online-seminar_img pc slide-top"><img src="./img/online-seminar_img.png" alt="教室開講時間"></p>
 								<p class="online-seminar_img sp slide-top"><img src="./img/sp_online-seminar_img.png" alt="教室開講時間"></p>
 								<p class="online-seminar_request slide-top">
-									<a href="https://www15.webcas.net/form/pub/jra/beginners"><img src="./img/online-seminar_request.png" alt="オンラインセミナー申し込み"></a>
+									<a href="https://www15.webcas.net/form/pub/jra/beginners_2"><img src="./img/online-seminar_request.png" alt="オンラインセミナー申し込み"></a>
 								</p>
 							
 								<div class="rule_box_large">
@@ -104,14 +102,14 @@
 								
 								<div class="rule_box">
 									<p>
-										オンラインビギナーズセミナー（以下「本オンラインセミナー」といいます）への参加にあたっては、以下に定める応募規約（以下「本規約」といいます）をご確認いただき、ご同意いただいたうえでご応募下さい。<br>
-										本オンラインセミナーにご応募いただいた場合は、本規約に同意されたものとさせていただきます。<br>
+                                    オンラインビギナーズセミナー（以下「本オンラインセミナー」といいます）への参加にあたっては、以下に定める応募規約（以下「本規約」といいます）をご確認いただき、ご同意いただいたうえでご応募下さい。<br>
+                                    本オンラインセミナーにご応募いただいた場合は、本規約に同意されたものとさせていただきます。<br>
  										<br>
 										１． 概要<br>
 										応募期間内に本オンラインセミナーを申し込まれた方に、メールにてZoomのURLが送付され、本オンラインセミナーを受ける権利が付与されます。本オンラインセミナーはZoomを利用します。<br>
 										<br>
 										２． 応募期間<br>
-										本オンラインセミナーへの応募期間は、2022年3月5日（土）～3月24日（木） 17:00迄です。
+										本オンラインセミナーへの応募期間は、2022年3月26日（土）～4月14日（木） 17:00迄です。
 										<br>
 										３． 応募資格<br>
 										本オンラインセミナーへご応募いただける方は、下記各号を全て満たす方に限ります。<br>
@@ -127,7 +125,7 @@
 										※本サイトの推奨環境は、以下のとおりです。推奨環境以外では、正常に動作しない場合があります。<br>
 										【推奨環境】<br>
 										PC：推奨ブラウザ<br>
-										Internet Explorer 11 以上<br>
+										Microsoft Edge最新版<br>
 										Firefox 最新版<br>
 										Chrome 最新版<br>
 										Safari 最新版<br>
@@ -205,16 +203,14 @@
 										【お問い合わせ】<br>
 										オンラインビギナーズセミナー運営事務局<br>
 										メール：<a href="mailto:ra-seminar@contact-info.jp">jra-seminar@contact-info.jp</a> <br>
-										開設期間：2022年3月7日（月）〜2022年5月29日（日）<br>
+										開設期間：2022年3月5日（月）〜2022年5月26日（日）<br>
 										※17時以降に受信した問い合わせは、翌朝以降にご返信させて頂きます。<br>
 										※本オンラインセミナー実施日を除く土・日・祝日はお休みさせて頂きます。<br>
 										※お問い合わせ内容によっては、ご返答に時間がかかる場合やお答えできない場合がございますので、あらかじめご了承ください。<br>
-
-
 									</p>
 								</div>
 							</div>
-							
+
 								<dd class="contaxt_txt">
 									<span>
 									お問い合わせ窓口<br>
@@ -222,7 +218,7 @@
 									17時以降に受信したお問い合わせは、<br class="sp">翌朝以降のご返答となります。
 									</span>
 								</dd>
-								
+                                
 								<p class="tab_sozai tab_sozai_bottom"><img src="./img/online_sozai.png"></p>
 							</div>
 						</div><!---ab_content--->

@@ -1,8 +1,0 @@
-RewriteEngine on
-RewriteCond %{HTTP:X-Forwarded-Proto} !https
-RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
-
-AuthType Basic
-AuthName "jra"
-AuthUserFile "/home/kir020553/public_html/frontier-ad.c.co.jp/client/jra/2203_beginner/beginner/seminar/.htpasswd"
-require valid-user
