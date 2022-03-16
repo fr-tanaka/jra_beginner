@@ -227,7 +227,36 @@
 						<div class="tab_content" id="tab_movie_content">
 							<div class="tab_inside">
 								<p class="tab_sozai"><img src="./img/movie_sozai.png"></p>
-								<p class="movie_coming-soon"><img src="./img/movie_coming-soon.png" alt="動画で学ぶ"></p>
+                                <div class="movie_contents">
+                                    <figure class="movie_contents__img">
+                                        <img src="./img/movie_coming-soon.png" alt="動画で学ぶ">
+                                    </figure>
+                                    <p class="movie_contents__text">ダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミー</p>
+                                    <div class="movie_contents__video">
+                                        <video class="movie_contents__video_item" controls>
+                                            <source src="./movie/movie_online_semminar.mp4">
+                                        </video>
+                                        <video class="movie_contents__video_item" controls>
+                                            <source src="./movie/movie_online_semminar.mp4">
+                                        </video>
+                                        <video class="movie_contents__video_item" controls>
+                                            <source src="./movie/movie_online_semminar.mp4">
+                                        </video>
+                                        <video class="movie_contents__video_item" controls>
+                                            <source src="./movie/movie_online_semminar.mp4">
+                                        </video>
+                                        <video class="movie_contents__video_item" controls>
+                                            <source src="./movie/movie_online_semminar.mp4">
+                                        </video>
+                                        <video class="movie_contents__video_item" controls>
+                                            <source src="./movie/movie_online_semminar.mp4">
+                                        </video>
+                                        <video class="movie_contents__video_item" controls>
+                                            <source src="./movie/movie_online_semminar.mp4">
+                                        </video>
+                                    </div>
+                                    <!--movie_contents__video-->
+                                </div>
 								<p class="tab_sozai tab_sozai_bottom"><img src="./img/movie_sozai.png"></p>
 							</div>
 						</div>
