@@ -233,25 +233,25 @@
                                     </figure>
                                     <p class="movie_contents__text">ダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミーダミー</p>
                                     <div class="movie_contents__video">
-                                        <video class="movie_contents__video_item" controls>
+                                        <video class="movie_contents__video_item" controls playsinline>
                                             <source src="./movie/movie_online_semminar.mp4">
                                         </video>
-                                        <video class="movie_contents__video_item" controls>
+                                        <video class="movie_contents__video_item" controls playsinline>
                                             <source src="./movie/movie_online_semminar.mp4">
                                         </video>
-                                        <video class="movie_contents__video_item" controls>
+                                        <video class="movie_contents__video_item" controls playsinline>
                                             <source src="./movie/movie_online_semminar.mp4">
                                         </video>
-                                        <video class="movie_contents__video_item" controls>
+                                        <video class="movie_contents__video_item" controls playsinline>
                                             <source src="./movie/movie_online_semminar.mp4">
                                         </video>
-                                        <video class="movie_contents__video_item" controls>
+                                        <video class="movie_contents__video_item" controls playsinline>
                                             <source src="./movie/movie_online_semminar.mp4">
                                         </video>
-                                        <video class="movie_contents__video_item" controls>
+                                        <video class="movie_contents__video_item" controls playsinline>
                                             <source src="./movie/movie_online_semminar.mp4">
                                         </video>
-                                        <video class="movie_contents__video_item" controls>
+                                        <video class="movie_contents__video_item" controls playsinline>
                                             <source src="./movie/movie_online_semminar.mp4">
                                         </video>
                                     </div>
