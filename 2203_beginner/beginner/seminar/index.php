@@ -38,7 +38,7 @@
 			
 				<div class="slide-box">
 					<div class="fv">
-                        <p class="fv__text"><a href="./pdf/text2019.pdf" target="_blabk"><img src="img/top-slide01__text.png" width="" height="" alt=""/></a></p>
+                        <p class="fv__text"><a href="./pdf/BeginnersBook.pdf" target="_blabk"><img src="img/top-slide01__text.png" width="" height="" alt=""/></a></p>
                         <div class="fv__bg"><img src="img/top-slide01.jpg" width="100%" height="" alt="" class="pc"><img src="img/top-slide01_sp.jpg" width="100%" height="" alt="" class="sp"></div>
 					</div>
 				</div>
@@ -192,7 +192,7 @@
 										・競馬会は、応募者情報を、本オンラインセミナーに関する業務の委託先において、法令等に基づき管理いたします。<br>
 										・競馬会は、応募者情報を、応募者の同意を得ることなく、当該委託先以外の第三者に開示することはありません。ただし、法令により開示を求められた場合、お申し込み時に応募者より開示が許されている場合、または裁判所・警察署等の公的機関から開示を求められた場合は、応募者の同意なく、応募者情報を開示することがあります。 <br>
 										・その他個人情報の取り扱いにつきましては、<a href="http:company.jra.jp/privercy/index.html">http:company.jra.jp/privercy/index.html</a><br>
-										+（モバイル版：<a href="htto://jra.jp/about.html">htto://jra.jp/about.html</a>）をご覧ください。<br>
+										+（モバイル版：<a href="htts://jra.jp/about.html">htts://jra.jp/about.html</a>）をご覧ください。<br>
 										<br>
 										１５． 変更<br>
 										・競馬会は、本オンラインセミナーの内容（期間等）または本規約を予告なく変更する場合があります。変更があった場合は、本サイトにてお知らせします。掲載後は、変更後の本オンラインセミナーの内容または本規約が全ての参加者に適用されます。<br>
@@ -203,7 +203,7 @@
 										【お問い合わせ】<br>
 										オンラインビギナーズセミナー運営事務局<br>
 										メール：<a href="mailto:ra-seminar@contact-info.jp">jra-seminar@contact-info.jp</a> <br>
-										開設期間：2022年3月5日（月）〜2022年5月26日（日）<br>
+										開設期間：2022年3月5日（月）〜2022年5月29日（日）<br>
 										※17時以降に受信した問い合わせは、翌朝以降にご返信させて頂きます。<br>
 										※本オンラインセミナー実施日を除く土・日・祝日はお休みさせて頂きます。<br>
 										※お問い合わせ内容によっては、ご返答に時間がかかる場合やお答えできない場合がございますので、あらかじめご了承ください。<br>
